@@ -1,12 +1,7 @@
 # Notes
 
-## Overview
+Last updated: 2026-04-14T11:43:32.604Z
 
-Work in progress.
+## Progress
 
-## TODO
-
-- [ ] Define requirements
-- [ ] Implement core functionality
-- [ ] Add tests
-- [ ] Write documentation
+- handle empty response gracefully
