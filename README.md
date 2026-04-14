@@ -1,2 +1,15 @@
 # kubernetes-configs-w16
-Production Kubernetes manifests and Helm chart examples
+
+> Last updated: 2026-04-14
+
+## About
+
+This repository is actively maintained and updated regularly.
+
+## Getting Started
+
+Clone the repo and follow the setup instructions.
+
+## Contributing
+
+Contributions welcome! Please read CONTRIBUTING.md first.
